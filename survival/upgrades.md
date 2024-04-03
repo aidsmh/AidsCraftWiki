@@ -20,6 +20,10 @@
  - **Description**: Allows you to slide down walls safely, can combine with **Double Jump** to jump backwards off walls being slid down.
  - **Durability**: No durability use
  - **Cooldown**: No cooldown, always active
+### Smooth Operator $5000
+ - **Description**: Drastically increases the speed of and slowly heals the wearer's mount
+ - **Durability**: No durability use
+ - **Cooldown**: No cooldown, always active
 ## Boots
 ### Double Jump $5000
  - **Description**: Simple, you get another jump, **crouch** to use. Jumps away from the wall (backwards) when using **Wall Slide**.
