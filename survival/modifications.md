@@ -9,3 +9,4 @@
 - Renaming items in an anvil without combining or repairing is **always** 1 level
 - Anvil is 25% cheaper
 - The Brush can be used to make item frames invisible (item frames cannot be invisible on Bedrock Edition)
+- All Pickaxes can be used to rotate blocks, uses 1 durability.
