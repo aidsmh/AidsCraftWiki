@@ -1,5 +1,6 @@
-## Things listed in this channel are modifications added by me to the **Survival** gamemode:
+## Things listed in this channel are modifications added/changed by me to the **Survival** gamemode:
 - 1.8 PVP (offhand is still here)
+- NO END!!
 - Buying and selling:
  * Things can be sold through `/sell` and bought through `/buy`
 - The upgrade system:
