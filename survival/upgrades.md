@@ -1,7 +1,7 @@
 # Upgrades are custom abilities that can be bought and applied to weapons, tools, and armor.
 ## Helmet
 ### Miner's Helmet $5000
- - **Description**: Magnet-like ability, items within 8 blocks in any direction move towards the player, **always active while wearing the helmet**
+ - **Description**: Magnet-like ability + night vision, items within 8 blocks in any direction move towards the player, **always active while wearing the helmet**
  - **Durability**: No durability use
  - **Cooldown**: No cooldown, always active
  - **Useable on Armor Stands**
