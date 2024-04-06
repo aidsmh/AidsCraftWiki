@@ -34,6 +34,10 @@
  - **Durability**: No durability use
  - **Cooldown**: No cooldown, always active
  - **Useable on Armor Stands**
+### Speedster $7000
+ - **Description**: Applies constant Speed II and Haste I.
+ - **Durability**: No durability use
+ - **Cooldown**: No cooldown, always active
 
 ## Sword
 ### Sword Dash $7000
