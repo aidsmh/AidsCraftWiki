@@ -46,6 +46,6 @@
  - **Cooldown**: 7 seconds
 ## Bow
 ### Hunter $7000
- - **Description**: Causes all mobs to glow, and arrows veer towards hostile mobs, improving bow accuracy!
- - **Durability**: No durability use.
- - **Cooldown**: No cooldown, active when holding a bow
+ - **Description**: Arrows veer towards hostile mobs, improving bow accuracy, and can scan the nearby area with the offhand button!
+ - **Durability**: 1 durability per scan
+ - **Cooldown**: Scan: 10 seconds, bow aim: always active.
